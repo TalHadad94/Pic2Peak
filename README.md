@@ -14,4 +14,4 @@ Artificial intelligence system called "Pic2Peak". This system knows how to turn 
 * I upload the result file to this repository, You can open "DataTable.csv" and see the output CSV file.
 * For customization: Replace "image_urls" (In [21]) to your image URL and select it when "detect_img" (In [22]) is running.
   
-2)
+2) For this part you will need Blender on your computer - https://www.blender.org/.
