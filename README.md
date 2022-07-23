@@ -11,4 +11,5 @@ Artificial intelligence system called "Pic2Peak". This system knows how to turn 
 * For customization: Replace "image_urls" (In [21]) to your image URL and select it when "detect_img" (In [22]) is running.
   
   
+  
 2)
