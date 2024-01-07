@@ -18,4 +18,4 @@ Artificial intelligence system called "Pic2Peak". This system knows how to turn 
 
 
 
-## Pic2Peak application is under development - https://github.com/TalHadad94/Pic2Peak-App
+### Pic2Peak application is under development - https://github.com/TalHadad94/Pic2Peak-App
