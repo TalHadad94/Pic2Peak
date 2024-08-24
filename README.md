@@ -1,3 +1,7 @@
+© 2024 Tal. All rights reserved.
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 # Pic2Peak
 
 Artificial intelligence system called "Pic2Peak". This system knows how to turn a two-dimensional landscape image into a three-dimensional environment. Using CNN model of TensorFlow, Python, and Blender.
