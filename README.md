@@ -16,6 +16,7 @@ Artificial intelligence system called "Pic2Peak". This system knows how to turn 
   
 2) For this part you will need Blender on your computer - https://www.blender.org/. In Blender open a "Text Editor" window and copy "Pic2PeakForBlender.py" to it. make sure that the path to the CSV file is correct (line 23). then you can run it from "Run Script" button in the window, and the environment will be built.
 
+# CopyRights
 
 © 2024 Tal. All rights reserved.
 
