@@ -8,7 +8,7 @@ Artificial intelligence system called "Pic2Peak". This system knows how to turn 
 
 * For more information you can download "Pic2Peak Project Book" from this repository, and read it (written in Hebrew).
 
-# How to use Pic2Peak (From this repository):
+# How to use Pic2Peak
 1) Open "ImageDetectedPic2Peak.ipynb" and run it on Google Colab. This code do Image detection on picture from URL addresses. And generete for you at the end CSV file with all the data that the model found.
 
 * We upload the result file to this repository, You can open "DataTable.csv" and see the output CSV file.
