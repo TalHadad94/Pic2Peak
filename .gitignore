@@ -1,0 +1,10 @@
+# ignore ALL .csv & .ipynb & .rar files
+*.csv
+*.ipynb
+*.rar
+
+# ignore "Pic2PeakForBlender.py"
+/Pic2PeakForBlender.py
+
+# ignore all the files in "LearningProcess"
+LearningProcess/
