@@ -2,8 +2,13 @@
 
 Artificial intelligence system called "Pic2Peak". This system knows how to turn a two-dimensional landscape image into a three-dimensional environment. Using CNN model of TensorFlow, Python, and Blender.
 
+Take any picture of Landscape:
 ![image](https://user-images.githubusercontent.com/93497035/180607993-0e301b94-9cae-4154-9cd6-c0d8a53423fc.png)
+
+Detect the objects from the image:
 ![image](https://user-images.githubusercontent.com/93497035/180607995-015f159b-c241-4788-a419-115db04e953e.png)
+
+Create 3D environment in Blender:
 ![image](https://user-images.githubusercontent.com/93497035/180608000-1599e287-57e8-4ad2-896f-b0661c4cba6a.png)
 
 * For more information you can download "Pic2Peak Project Book" from this repository, and read it (written in Hebrew).
